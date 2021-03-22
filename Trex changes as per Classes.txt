@@ -1,0 +1,25 @@
+Link for the TREX game:
+https://editor.p5js.org/whitehatjr/present/ePJrHCACM
+
+Class9:
+ ground = createSprite(200,180,600,20);
+
+Class11:
+https://editor.p5js.org/golanig.komal/sketches/UKZogcLxL
+background(100);
+Delete background from setup and lower the value to get darker background.
+
+Class12:
+score = score + Math.round(getFrameRate()/60);
+
+Class14:
+Below code add to if PLAY  section.
+gameOver.visible = false
+    restart.visible = false
+
+Number is console window:
+It specify that how many times hello message is printed on console.
+
+
+Number on collision radius:
+its specify depth of sprite

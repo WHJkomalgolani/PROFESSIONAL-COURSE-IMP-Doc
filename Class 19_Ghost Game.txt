@@ -1,0 +1,10 @@
+Line 47 :
+
+ghost.velocityY = -1;
+
+Change gravity from 0.8 to 0.1
+ghost.velocityY = ghost.velocityY + 0.1
+ 
+
+We write -50 because we want climber should be present at bottom of the door.
+var door = createSprite(200, -50);

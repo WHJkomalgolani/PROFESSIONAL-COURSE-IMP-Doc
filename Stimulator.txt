@@ -1,0 +1,7 @@
+We have to download Android Stimulator do the set up for the mobile emulator and use it for react classes.
+
+To install Stimulator for windows10:
+https://youtu.be/RVP5kJiwfDo
+ 
+Download link:
+ https://www.bignox.com/

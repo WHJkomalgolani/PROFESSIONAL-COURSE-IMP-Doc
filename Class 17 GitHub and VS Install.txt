@@ -1,0 +1,21 @@
+Install VSC:
+https://code.visualstudio.com/#alt-downloads
+
+Create a new github account:
+https://github.com/join
+
+Fill details
+Click on sign up
+Fill all details again
+Solve the puzzle
+click create an account
+Choose the relevant option.
+click on complete the setup
+email will come
+click verify email address
+select to do
+go to right side your profile.
+
+
+
+
